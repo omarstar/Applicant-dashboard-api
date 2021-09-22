@@ -105,8 +105,8 @@
 	      "CountryOfResidence": "Lebanon",
 	      "Nationality": "Lebanese",
 	      "IpCountry": "37.209.248.2",
-	      "Course": "Virtual Internship",
-	      "Status": "are you kidding me?",
+	      "Course": "Redux with Saga",
+	      "Status": "Kidding again",
 	      "DOB": "03-08-1999"
 	    },
 	    {
@@ -133,8 +133,8 @@
 		"CountryOfResidence": "Lebanon",
 		"Nationality": "Lebanese",
 		"IpCountry": "37.209.248.2",
-		"Course": "Virtual Internship",
-		"Status": "accepted",
+		"Course": "Html & css",
+		"Status": "somehow",
 		"DOB": "28-08-1995"
 		},
 		{
@@ -148,7 +148,7 @@
 		"Nationality": "Lebanese",
 		"IpCountry": "37.209.248.2",
 		"Course": "Virtual Internship",
-		"Status": "accepted",
+		"Status": "postponed",
 		"DOB": "23-08-1999"
 		},
 	    {
