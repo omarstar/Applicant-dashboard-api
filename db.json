@@ -2,7 +2,7 @@
 	"pageone":
 	{
 	  "applicantsPerPage": 10,
-	  "nextPageKey": "APPLICANT#abdullah.faraj@live.com",
+	  "nextPageKey": "pageTwo",
 	  "applicants": [
 	    {
 	      "PK": "APPLICANT",
@@ -93,7 +93,7 @@
 	"pageTwo":
 	{
 	  "applicantsPerPage": 10,
-	  "nextPageKey": "APPLICANT#abdullah.faraj@live.com",
+	  "nextPageKey": "pageThree",
 	  "applicants": [
 	    {
 	      "PK": "APPLICANT",
